@@ -1,0 +1,1 @@
+Just a simple application to write down stuff like notes and save.
